@@ -4,6 +4,4 @@ unbunt2回目
 winで変更
 no-fast-fowerd test
 
-
-aaaaaaa
-bbbbbb
+confrict remoteで作成
