@@ -1,3 +1,4 @@
 # sample-repo
-更新した
-unbunt
+更新した2
+ununtu
+
