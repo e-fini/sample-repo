@@ -1,2 +1,4 @@
 # sample-repo
-更新した
+更新した2
+ununtu
+
