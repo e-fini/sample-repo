@@ -1,4 +1,4 @@
 # sample-repo
-更新した2
-ununtu
+更新した
+unbunt2回目
 
