@@ -6,3 +6,5 @@ no-fast-fowerd test
 
 confrict remoteで作成
 vscodeで修正
+main
+
